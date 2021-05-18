@@ -1,0 +1,14 @@
+Book name:
+-----------
+https://web.stanford.edu/~jurafsky/slp3/
+
+
+Book chapter:
+--------------
+17. Information Extraction
+
+
+Concept map link:
+-----------------
+
+https://lucid.app/lucidchart/invitations/accept/inv_992db91c-8b19-449e-b98e-439ea14fa7c0
